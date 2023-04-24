@@ -19,7 +19,7 @@ Our IOT based analytics through Machine Learning  project solves the problem fea
 
 
 
-## Screenshots
+## Hardware set-up
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Hardware set-up](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
