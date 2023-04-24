@@ -17,13 +17,14 @@ Our IOT based analytics through Machine Learning  project solves the problem fea
 ![Work-flow](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/workflow%20of%20project.png)
 
 
-
+## Circuit diagram
+![Circuit diagram](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/Battery%20analytics%20circuit%20diagram.png)
 
 ## Hardware set-up
 
-![App Hardware set-up](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/Hardware%20setup.png)
+![Hardware set-up](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/Hardware%20setup.png)
 
 ## dashboard
 
-![dashboard](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/Hardware%20setup.png)
+![dashboard](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/battery%20dashboard.png)
 
