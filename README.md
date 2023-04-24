@@ -21,5 +21,9 @@ Our IOT based analytics through Machine Learning  project solves the problem fea
 
 ## Hardware set-up
 
-![App Hardware set-up](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Hardware set-up](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/Hardware%20setup.png)
+
+## dashboard
+
+![dashboard](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/Hardware%20setup.png)
 
