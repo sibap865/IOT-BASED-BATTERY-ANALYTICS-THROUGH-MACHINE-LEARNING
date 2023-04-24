@@ -14,7 +14,7 @@ Our IOT based analytics through Machine Learning  project solves the problem fea
 
 
 ## Roadmap
-![Work-flow](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Work-flow](https://github.com/sibap865/IOT-BASED-BATTERY-ANALYTICS-THROUGH-MACHINE-LEARNING/blob/main/workflow%20of%20project.png)
 
 
 
